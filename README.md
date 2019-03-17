@@ -7,15 +7,15 @@ This systems,emulates and replicates students, lecturers and coordintors roles i
 This project is live on 
 https://university-result-manager.herokuapp.com/
 
-###Student Login
+##Student Login
 Username:186880
 Password:Student101
 
-###Lecturer Login
+##Lecturer Login
 Username:2013/186879
 Password:Lecture101
 
-###Admin Login
+##Admin Login
 Username:2013/186878
 Password:Admin101
 
